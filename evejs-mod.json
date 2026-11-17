@@ -5,7 +5,7 @@
     "name": "波坤太叔"
   },
   "category": "工具",
-  "changelog": "修复版本对不上的问题",
+  "changelog": "更新至261115.2",
   "conflicts": [],
   "delisted": false,
   "description": "仿国服自动锁定，自动集火",
@@ -14,11 +14,11 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/diguo520/evejs-mod-evejs-autolockfire/releases/download/v1.1.8/evejs-autolockfire-1.1.8.zip"
+      "url": "https://github.com/diguo520/evejs-mod-evejs-autolockfire/releases/download/v1.1.10/evejs-autolockfire-1.1.10.zip"
     }
   ],
   "evejsVersions": [
-    "261108.1"
+    "261115.2"
   ],
   "featured": false,
   "highlights": [
@@ -27,18 +27,18 @@
   ],
   "history": [],
   "id": "evejs-autolockfire",
-  "publishedAt": "2026-11-13",
+  "publishedAt": "2026-11-17",
   "readme": [
     "从国服客户端移植过来的舰船 HUD 按钮组：在飞行界面右侧加一排按钮，用来一键锁定、集火、停止锁定与停止开火。"
   ],
   "repo": "https://github.com/diguo520/evejs-mod-evejs-autolockfire",
   "requiresRestart": true,
-  "sha256": "092b73e44e904948395b8d06420efa0390ecc88f9aefd3696c1542c5dfd66ed9",
-  "sizeBytes": 115107,
+  "sha256": "31b5b4980cabf61b2610752de9247bbc5850b482dba7580eae7ef90cd16f1474",
+  "sizeBytes": 115249,
   "tags": [
     "锁定",
     "集火",
     "自动"
   ],
-  "version": "1.1.8"
+  "version": "1.1.10"
 }
